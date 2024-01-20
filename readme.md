@@ -1,5 +1,5 @@
 # Understanding Deep Learning, Book
-By Simon J. Prince - Official website: https://udlbook.github.io/udlbook/
+By Simon J.D. Prince - Official website: https://udlbook.github.io/udlbook/
 
 - This repo containts the solutions to the jupyter notebooks published on this book's official website.
 - This repo also contains the theoretical solutions to the book's chapter problems.
