@@ -5,8 +5,12 @@ By Simon J.D. Prince - Official website: https://udlbook.github.io/udlbook/
 - This repo also contains the theoretical solutions to the book's chapter problems.
 
 ## Solutions Update
-|Chapter|Solutions to<br>Python Notebooks|Solutions to<br>Chapter End Problems|
-|-|-|-|
-|1|-|-|
-|2|In Progress|In Progress|
+|Python Notebook|Solution |
+|-|-|
+|Notebook 1.1 - Background mathematics|Done|
+|Notebook 2.1 - Supervised learning|In Progress|
 
+|Chapter|Chapter End Problems Solution |
+|-|-|
+|1|-|
+|2|In Progress|
