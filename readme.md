@@ -8,7 +8,11 @@ By Simon J.D. Prince - Official website: https://udlbook.github.io/udlbook/
 |Python Notebook|Solution |
 |-|-|
 |Notebook 1.1 - Background mathematics|Done|
-|Notebook 2.1 - Supervised learning|In Progress|
+|Notebook 2.1 - Supervised learning|Done|
+|Notebook 3.1 - Shallow networks I|In Progress|
+|Notebook 3.2 - Shallow networks II|In Progress|
+|Notebook 3.3 - Shallow networks regions|In Progress|
+|Notebook 3.4 - Activation functions|In Progress|
 
 |Chapter|Chapter End Problems Solution |
 |-|-|
