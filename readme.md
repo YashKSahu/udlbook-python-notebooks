@@ -9,7 +9,7 @@ By Simon J.D. Prince - Official website: https://udlbook.github.io/udlbook/
 |-|-|
 |Notebook 1.1 - Background mathematics|Done|
 |Notebook 2.1 - Supervised learning|Done|
-|Notebook 3.1 - Shallow networks I|In Progress|
+|Notebook 3.1 - Shallow networks I|Done|
 |Notebook 3.2 - Shallow networks II|In Progress|
 |Notebook 3.3 - Shallow networks regions|In Progress|
 |Notebook 3.4 - Activation functions|In Progress|
@@ -18,3 +18,4 @@ By Simon J.D. Prince - Official website: https://udlbook.github.io/udlbook/
 |-|-|
 |1|-|
 |2|In Progress|
+|3|In Progress|
