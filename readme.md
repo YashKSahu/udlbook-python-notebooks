@@ -13,6 +13,9 @@ By Simon J.D. Prince - Official website: https://udlbook.github.io/udlbook/
 |Notebook 3.2 - Shallow networks II|Done|
 |Notebook 3.3 - Shallow networks regions|Done|
 |Notebook 3.4 - Activation functions|Done|
+|Notebook 4.1 - Composing networks|Done|
+|Notebook 4.2 - Clipping functions|Done|
+|Notebook 4.3 - Deep networks|Done|
 
 |Chapter|Chapter End Problems Solution |
 |-|-|
